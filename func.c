@@ -2,7 +2,6 @@
 
 char *getStudentID(char *id)
 {
-	/* Return your student id. */
-
+	printf("Check 2 test!!!");
 	return id;
 }
